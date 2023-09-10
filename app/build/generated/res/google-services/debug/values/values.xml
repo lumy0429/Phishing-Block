@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">497335556667-odqh20f6j2ueailj6qef5isc7343anos.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">497335556667</string>
+    <string name="google_api_key" translatable="false">AIzaSyBP59Rn3iKOlnceslxVSjbXXV3xcqUIQrI</string>
+    <string name="google_app_id" translatable="false">1:497335556667:android:25728c44fbd5e972f35a1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBP59Rn3iKOlnceslxVSjbXXV3xcqUIQrI</string>
+    <string name="google_storage_bucket" translatable="false">phishing-block.appspot.com</string>
+    <string name="project_id" translatable="false">phishing-block</string>
+</resources>
